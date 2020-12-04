@@ -15,7 +15,7 @@ A minimal PyTorch implementation of YOLOv3, with support for training, inference
     $ cd data/
     $ bash get_coco_dataset.sh
     
-## Test
+## Test   
 Evaluates the model on COCO test.
 
     $ python3 test.py --weights_path weights/yolov3.weights
