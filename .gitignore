@@ -1,0 +1,11 @@
+.git
+.DS_Store
+*.egg-info
+dist
+data
+results
+backup
+weights
+save
+checkpoints
+
